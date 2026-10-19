@@ -1,0 +1,32 @@
+body {
+    background-color: #eeeeee;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #850202;
+}
+
+h2 {
+    color: black;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #850202;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+p{
+    font-size: 18px;
+}
