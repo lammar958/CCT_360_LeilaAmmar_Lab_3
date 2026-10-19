@@ -1,6 +1,6 @@
-let start = "images/start.jpg";
-let crash = "images/crash.jpg";
-let win = "images/win.jpg";
+let start = "Images/start.jpg";
+let crash = "Images/crash.jpg";
+let win = "Images/win.jpg";
 
 let photo = 1;
 let story = 1;
